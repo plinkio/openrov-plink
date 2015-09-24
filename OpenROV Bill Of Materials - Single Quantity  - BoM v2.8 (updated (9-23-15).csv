@@ -1,0 +1,71 @@
+Bill of Materials OpenROV v2.8,,,,
+,,,,
+PART,QUANTITY/ROV,RECOMMENDED SOURCE,Alternative Source,NOTES
+Raw Materials,,,,
+"Polypropylene Sheet - Semi-Clear White 3mm (1/8"") Thick",min. 22in x 13in,http://www.mcmaster.com/#8742K433,,
+"Cast Acrylic Sheet - Clear 3mm (1/8"") Thick",min. 24in x 18in,http://www.mcmaster.com/#8560K259,,
+"Cast Acrylic Sheet - Clear 6mm (1/4"") Thick",min. 12in x 24in,http://www.mcmaster.com/#8560K355,,
+"Cast Acrylic Sheet - Clear 1.5mm (1/16"") Thick",min. 12in x 12in,http://www.mcmaster.com/#8560K172,,
+"Acrylic Sheet - White 1.5mm (1/16"") Thick",min. 12in x 12in,,,Substitute clear if white unavailable
+"Cast Acrylic Tube - Clear (3.75"" ID, .1875"" Wall)","1, cut to 180mm",OpenROV Webstore,,
+"PETG tube - clear (1.25"" OD, 1.125"" ID)",2 lengths cut to 233mm,http://www.mcmaster.com/#9245K41,,
+,,,,
+Fasteners (Section Complete),,,,
+M5 316 Stainless Steel Thin Hex Nut,4,http://www.mcmaster.com/#93935A330,,
+M5 316 Stainless Steel Nylon-Insert Locknut,4,http://www.mcmaster.com/#94205A240,,
+M3x12 Nylon Pan Head Slotted Machine Screw (White),6,http://www.mcmaster.com/#94270a122/=z1y36q,,
+M3x8 Nylon Pan Head Slotted Machine Screw (Black),6,http://www.mcmaster.com/#90451a118/=z1y2l2,,
+M3 Nylon Nuts (Black),9,http://www.mcmaster.com/#93800a400/=z1xqi4,,
+M2x12 316 Stainless Steel Socket Head Cap Screw,13,http://www.mcmaster.com/#92290a019/=z1y5ju,,
+M2 316 Stainless Steel Hex Nut,13,http://www.mcmaster.com/#94150A305,,
+M2.5 316 Stainless Steel Split Lock Washer,13,http://www.mcmaster.com/#92153A411,,
+M3x25 Nylon Female/Female Standoff,1,https://www.digikey.com/product-search/en?keywords=36-25515-ND,,
+,,,,
+O-Rings (Section Complete),,,,
+#340 O-Rings,2,OpenROV Webstore,http://www.mcmaster.com/#9452k209,
+#314 O-Rings,2,OpenROV Webstore,http://www.mcmaster.com/#9452k387,
+,,,,
+Misc,,,,
+"Hex key, 1.5mm",1,http://www.mcmaster.com/#7289A11,,
+"Expandable Polyester Sleeving Fray-Resistant, 1/4"" ID",2 Ft,http://www.mcmaster.com/#2837k12/=z1xghv,,
+3M EPS-300 adhesive-lined heatshrink Tubing,2.5 Ft,http://www.rshughes.com/p/3M-Clear-Adhesive-Lined-Polyolefin-Heat-Shrink-Thin-Wall-Flexible-Polyolefin-Adhesive-Lined-Tubing-48-In-Length-3-1-Shrink-Ratio-250-DegF-Shrink-Temp-EPS300-1-8-48-Clear-250-Pcs/051128_59769/,http://www.newark.com/3m/eps300-1-8-6-black-10-10pcpks/heat-shrink-tubing-3-18mm-id-po/dp/47W9746?ost=47W9746,Can use regular heatshrink and apply hotglue to join before shrinking in order to seal the joint
+"Large Zip Tie (~8"" long by ~0.3"" wide)",1,Any Common,,
+Small zip ties,10,http://www.mcmaster.com/#7130K42,,
+Bullet Weights 3oz Disc Sinker ,2,http://www.bulletweights.com/Products/FishingSinkers/DiscSinkers.aspx,Local Fishing Store,
+M5 316 stainless 215mm threaded rod,2 lengths cut to 215mm,www.mcmaster.com/#94185A150,,"
+"
+1mL Syringe (BD product# 309628),1,http://www.amazon.com/Luer-Lok-Disposable-Syringe-Box-100/dp/B005PFQURW/ref=sr_1_1?ie=UTF8&qid=1442964746&sr=8-1&keywords=309628,,
+Spring Battery Contacts,2,"Digikey, Newark, Mouser",,"Digikey# 5241K-ND, Newark# 25T0464, Mouser# 534-5241"
+Button Battery Contacts,2,"Digikey, Newark, Mouser",,"Digikey# 5240K-ND, Newark# 25T0463, Mouser# 534-5240"
+26AWG Single Twisted Pair Tether Wire,100m,OpenROV Webstore,Make it Yourself,Cut away the jacket from an Ethernet cable and use a single twisted pair.
+DB-25 Wire Harness ,1,OpenROV Webstore,Make it Yourself,"If Make It Yourself: Female DB25 Connectors with Solder Cups (Newark #93k4295), with 110cm of 20AWG wire"
+"Propeller, Graupner 2308.60",1,OpenROV Webstore,http://www.cornwallmodelboats.co.uk/acatalog/graupner_propellers.html,"Graupner 2309.65 works too, These propellers have an M4 thread. The motors are M3. You can either glue them in place, or order these from our store (we have them with custom M3 threads in place of the M4). "
+"Propeller (LEFT), Graupner 2308.60L",1,OpenROV Webstore,http://www.cornwallmodelboats.co.uk/acatalog/graupner_propellers.html,"Graupner 2309.65L works too, These propellers have an M4 thread. The motors are M3. You can either glue them in place, or order these from our store (we have them with custom M3 threads in place of the M4). "
+"Propeller, Graupner 2303.57",1,OpenROV Webstore,"http://www.rc-toy.de/lshop,showdetail,76897d350c61031a1bd0cc8090c842a9,e,,,6-2303.57,2,Tshowdetail--rc-toy-shop.rc-toy.1278963540.graupner.import-01-08-10--6-2303.60,.htm","These propellers have an M4 thread. The motors are M3. You can either glue them in place, or order these from our store (we have them with custom M3 threads in place of the M4). "
+Male-Male RJ45 Flex,1 (200mm long),Make it Yourself,,http://openrov.dozuki.com/Guide/How+to+Make+the+OpenROV+RJ45+Connector/7
+Strap,1,http://www.seatosummit.com/product/?item=10+mm+Accessory+Straps+with+Hook+Release&o1=0&o2=0&o3=833,,Not the same strap in the kit but will work
+Ranger Bands,4,OpenROV Website,,
+"Red Hookup Wire (22AWG, 9"")",2,,,
+"Black Hookup Wire (22AWG, 9"")",2,,,
+USB Connector for Camera,1,Make it Yourself,,"Cut and resolder the existing camera wire to 9.5"" in length"
+,,,,
+ELECTRONICS (Section Complete),,,,
+OpenROV Control Board v2.8,1,OpenROV Webstore,,Control Board v2.8 Final Data Package for Manufacturing
+OpenROV Topside Interface Board,1,OpenROV Webstore,,Topside Interface Board Final Data Package for Manufacturing
+BeagleBone Black,1,OpenROV Webstore,,
+Genius F100 HD USB Webcam ,1,OpenROV Webstore,,
+Tenda Homeplug Adapter Set,1,OpenROV Webstore,,
+DST-700 Brushless DC Motor,3,OpenROV Webstore,http://www.hobbyking.com/hobbyking/store/__42861__Turnigy_Aerodrive_DST_700_Brushless_Outrunner_motor_700kv.html,
+OpenROV v2.8 LED Lightboard,1,OpenROV Webstore,,Lightboard v2.8 Final Data Package for Manufacturing
+Hitec HS-81 Servo,1,OpenROV Webstore,http://www.servocity.com/html/hs-81_micro.html,
+Fuse,2,http://www.newark.com/littelfuse/16r600gu/fuse-ptc-reset-16v-6a-radial/dp/33P9970?ost=33P9970,,Newark #33P9970
+Lasers,2,http://www.fasttech.com/products/0/10005940/1453713-5mw-650nm-red-laser-diode-module-head-5-pack,,
+OpenROV Sticker,1,OpenROV Webstore,,
+,,,,
+Upgrades and Accessories (Section Complete),,,,
+Rechargeable Li-FePO4 Batteries,6,OpenROV Webstore,http://www.batteryspace.com/lifepo4-26650-rechargeable-cell-3-2v-3300-mah-19-8a-rate-10wh---un38-3-passed-ndgr.aspx,
+Smart Screen Battery Charger,2,OpenROV Webstore,https://www.fasttech.com/products/0/10005367/1429000-trustfire-tr-008-1-65-led-3-slot-smart-battery,Make sure it is on the 3V setting
+IMU/Compass/Depth Module,1,OpenROV Webstore,,
+,,,,
+Other (See Notes),,,,
+Afro 12AMP ESC,3,http://www.hobbyking.com/hobbyking/store/__64209__Afro_ESC_12Amp_OPTO_Ultra_Lite_Multi_rotor_Motor_Speed_Controller_SimonK_Firmware_Version_3.html,,These are already mounted on the v2.8 Controller Board
