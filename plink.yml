@@ -1,4 +1,9 @@
 repos:
   - "https://github.com/plinkio/openrov-hardware.git"
   - "https://github.com/plinkio/openrov-electronics.git"
-  
+
+assemblies:
+  - name: "OpenROV 2.8"
+    subassemblies:
+      - name: "Mechanical Assembly"
+        repo: "openrov-hardware"
