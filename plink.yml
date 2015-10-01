@@ -2,6 +2,13 @@ repos:
   - "https://github.com/plinkio/openrov-hardware.git"
   - "https://github.com/plinkio/openrov-electronics.git"
 
+docs:
+  - filename: "OpenROV Bill Of Materials - Single Quantity - BoM v2.8 (updated (9-23-15).csv"
+    name: "Upstream BOM"
+    comment: "this is the upstream BOM. it's a crappy format and needs auto splitting goofy parsing. Not sure how to do that yet"
+    handler: "csv"
+    
+  
 assemblies:
   - name: "OpenROV 2.8"
     subassemblies:
